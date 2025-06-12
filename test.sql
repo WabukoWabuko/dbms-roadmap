@@ -1,0 +1,11 @@
+PRAGMA foreign_keys=OFF;
+BEGIN TRANSACTION;
+CREATE TABLE Toys(
+ToyID INT PRIMARY KEY,
+ToyName VARCHAR(50),
+Color VARCHAR(10)
+);
+INSERT INTO Toys VALUES(1,'Red Car','Red');
+INSERT INTO Toys VALUES(2,'Blue Doll','Blue');
+INSERT INTO Toys VALUES(3,'Green Block','Green');
+COMMIT;

@@ -94,7 +94,7 @@ mindmap
         Step60: Performance Tuning
         Step61: Sharding & Replication
         Step62: Cloud Databases (AWS RDS, Firebase)
-        Future Trends
+      Future Trends
           Step63: AI in Databases
           Step64: Blockchain & Databases
           Step65: Edge Computing & Databases
